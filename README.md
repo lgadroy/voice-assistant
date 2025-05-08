@@ -1,5 +1,5 @@
 # voice-assistant
-Projet simple d'assistant vocal en Python utilisatn le modèle gpt-4o-mini d'OpenAI, et implémentant une interface Tkinter.
+Projet simple d'assistant vocal en Python utilisant le modèle gpt-4o-mini d'OpenAI, et implémentant une interface Tkinter.
 
 ## Comment l'utiliser?
 
